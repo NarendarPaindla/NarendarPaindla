@@ -15,7 +15,7 @@
 - 🤖 Delivered programs on **AI Stack — ML, DL, NLP, GenAI, Agentic AI**
 - 🔭 Currently mentoring **MERN & MEAN Stack Academic Projects**
 - 💬 Ask me about **Python, React, FastAPI, Node.js, MongoDB, Java, DSA, System Design**
-- 📺 YouTube: **[Hexacore Learners](https://www.youtube.com/@hexacorelearners156)**
+- 📺 YouTube: **[TeluNext](https://www.youtube.com/@telunextlearning)**
 - 📫 Reach me: **narendarreddypaindla@gmail.com**
 
 <br clear="right"/>
