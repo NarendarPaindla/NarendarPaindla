@@ -25,7 +25,7 @@
 ### 🤝 Connect with Me
 
 <p align="left"> 
-<a href="[https://www.linkedin.com/in/paindla-narendar-reddy](https://www.linkedin.com/in/paindla-narendar-reddy-712b181a4/)" target="blank">
+<a href="https://www.linkedin.com/in/paindla-narendar-reddy-712b181a4/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@telunextlearning" target="blank">
